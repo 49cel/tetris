@@ -4,7 +4,7 @@ This is a remake of the game 'Tetris' using the data structure concepts, built u
 
 To run it:
 
-1. Clone the repo using `git clone https://github.com/49cel/tetris_project`
+1. Clone the repo using `git clone https://github.com/49cel/tetris`
 
 2. Compile the build using `make` (Ensure you have all the dependencies sorted out)
 
